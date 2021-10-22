@@ -1,0 +1,16 @@
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.exe
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.deps.json
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.runtimeconfig.json
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.runtimeconfig.dev.json
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.dll
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ref\ProductImportedUsed.dll
+C:\temp\Projetos\ProductImportedUsed\bin\Debug\net5.0\ProductImportedUsed.pdb
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.csproj.AssemblyReference.cache
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.AssemblyInfoInputs.cache
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.AssemblyInfo.cs
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.dll
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ref\ProductImportedUsed.dll
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.pdb
+C:\temp\Projetos\ProductImportedUsed\obj\Debug\net5.0\ProductImportedUsed.genruntimeconfig.cache
